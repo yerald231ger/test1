@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 sssseses
+=======
+ssss
+e
+>>>>>>> origin/master
